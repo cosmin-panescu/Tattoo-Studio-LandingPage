@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tattoo-Studio-LandingPage/static/css/main.51e68cba.css",
+    "main.js": "/Tattoo-Studio-LandingPage/static/js/main.d4eca4e8.js",
+    "index.html": "/Tattoo-Studio-LandingPage/index.html",
+    "main.51e68cba.css.map": "/Tattoo-Studio-LandingPage/static/css/main.51e68cba.css.map",
+    "main.d4eca4e8.js.map": "/Tattoo-Studio-LandingPage/static/js/main.d4eca4e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e68cba.css",
+    "static/js/main.d4eca4e8.js"
+  ]
+}
