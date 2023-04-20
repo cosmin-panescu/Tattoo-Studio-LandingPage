@@ -9,7 +9,7 @@
   }
 
   .section {
-    @apply py-[40px] lg: py-[160px];
+    @apply py-[40px] lg:py-[160px];
   }
 
   .link {
@@ -17,11 +17,11 @@
   }
 
   .h1 {
-    @apply text-[60px] lg: text-[118px] tracking-[-2px] leading-none font-tertiary mb-4;
+    @apply text-[60px] lg:text-[118px] tracking-[-2px] leading-none font-tertiary mb-4;
   }
 
   .h2 {
-    @apply text-[40px] xl: text-[85px] text-dark uppercase font-primary max-w-[236px] leading-none mb-[38px];
+    @apply text-[40px] xl:text-[85px] text-dark uppercase font-primary max-w-[236px] leading-none mb-[38px];
   }
 
   /* buttons */
@@ -38,14 +38,14 @@
   }
 
   .btn-outline {
-    @apply border border-white/70 bg-none hover: bg-white hover:text-dark;
+    @apply border border-white/70 bg-none hover:bg-white hover:text-dark;
   }
 
   .btn-dark {
-    @apply text-white transition-all bg-dark hover: bg-dark/90;
+    @apply text-white transition-all bg-dark hover:bg-dark/90;
   }
 
   .btn-link {
-    @apply h-auto px-0 transition-all text-dark hover: text-dark/90;
+    @apply h-auto px-0 transition-all text-dark hover:text-dark/90;
   }
 }
