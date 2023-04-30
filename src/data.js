@@ -236,31 +236,4 @@ export const footerData = {
       address: 'contact@yourcompany.com',
     },
   },
-  links: {
-    title: 'Useful links',
-    items: [
-      { href: '/', name: 'About me' },
-      { href: '/', name: 'My gallery' },
-      { href: '/', name: 'My services' },
-      { href: '/', name: 'Contact me' },
-    ],
-  },
-  program: {
-    title: 'Working Time',
-    items: [
-      { name: 'Mon - Tue / Appointment' },
-      { name: 'Wed - Fri / 10:00 - 9:00pm' },
-      { name: 'Sat / 10:00 - 6:00pm' },
-      { name: 'Sun / no work on this day' },
-    ],
-  },
-  newsletter: {
-    title: 'Newsletter',
-    subtitle:
-      'Elit duis porttitor massa tellus nun in velit arcu posuere integer.',
-    form: {
-      placeholder: 'Your email address',
-      icon: <FiSend />,
-    },
-  },
 };
